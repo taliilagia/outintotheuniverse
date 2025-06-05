@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Our Universe</h2>
+<p>Click on the stars to see what we are wishing for!</p>
+
+<img src="universe.jpg" alt="Universe" usemap="#universe" width="2400" height="1602">
+
+<map name="universe">
+  <area shape="rect" coords="382,182,397,197" alt="Star1" href="Star1.html">
+  <area shape="rect" coords="81,70,86,76" alt="Star2" href="Star2.html">
+  <area shape="rect" coords="124,89,130,95" alt="Star3" href="Star3.html">
+  <area shape="rect" coords="251,186,258,197" alt="Star4" href="Star4.html">
+  <area shape="rect" coords="930,532,1017,584" alt="TaliStar" href="TaliStar.html">
+  <area shape="rect" coords="163,470,175,479" alt="Star5" href="Star5.html">
+  <area shape="rect" coords="201,988,211,996" alt="Star6" href="Star6.html">
+  <area shape="poly" coords="658,1148,603,1326,835,1331,1220,1129,1659,776,1757,556,1427,577,1138,752" alt="Make your wish" href="Makeyourwish.htm">
+</map>
+
+</body>
+</html>
