@@ -1,0 +1,1 @@
+This is a project for my ART 303 course where I have asked the public for their dreams, aspirations, goals and more. They were free to share as much as they would like and ultimately opted-in to the project. 
