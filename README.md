@@ -1,1 +1,11 @@
-This is a project for my ART 303 course where I have asked the public for their dreams, aspirations, goals and more. They were free to share as much as they would like and ultimately opted-in to the project. 
+![universe](https://github.com/user-attachments/assets/2e9448e5-a412-498f-833f-d81bb00467b2)
+![Star10](https://github.com/user-attachments/assets/372e561a-4355-4538-bce5-fadb3ac8baa2)
+![Star9](https://github.com/user-attachments/assets/790b58ff-5c52-4822-aeb0-d1cf972dacb8)
+![Star8](https://github.com/user-attachments/assets/d2886ab4-b9b1-4e41-bd90-1a63008ba5e0)
+![Star7](https://github.com/user-attachments/assets/adf8c181-ece3-4f0e-8ae2-b36e5dbce442)
+![Star6](https://github.com/user-attachments/assets/be5be0fc-5dcf-469b-864a-f92e12f01512)
+![Star5](https://github.com/user-attachments/assets/798c55fb-a75c-4f0b-a7cf-3679cadc633d)
+![Star4](https://github.com/user-attachments/assets/0732370a-0ddc-4cac-b754-604fd81ffe40)
+![Star3](https://github.com/user-attachments/assets/66f64504-c0b9-4e67-9446-cc227582f764)
+![Star2](https://github.com/user-attachments/assets/93eebf28-99c3-4246-9346-773145dcc138)
+![Star1](https://github.com/user-attachments/assets/97dfbe09-3801-42ec-9e29-3e822c73ee16)
